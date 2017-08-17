@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8d72fea0dd226dc535fab807c607163d6f626af6.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-b53b98dbed0e1ab8042be499da20ea713e39f481.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-33df1b9315b4017548dd13ef670f84e1397b2edc.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-af865d9394a08449b5b6af6a34a73035c691193c.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-efed08827f8050fb09636ec86cdd390baacaa11e.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-906dabf7d749c9735ca7bf56e459d3e9de7cf643.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6999f36b3f61e4dfa530cfdeaf4841061dc7590f.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-958ce21f4694a6f18a763a9efa52374c357caf2d.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6693508b5bb54814481d0de6982fb88505c4f20b.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-b0afb109a7cb9c642a9387047377272fcd4d3f40.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-69ad87b2bbb92078522a6bd0699b0c69624df1e0.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-42616b9da9c016541038e557a0729050e10ccb6e.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b8da3f5c44be62619533b0a5e084dcbad4a8d93c.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-7cc09a0b3477dc6fbfac61ff43667f11adaa3a6f.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.3.0-977ff57bbc231aef4bddc911d2c14ce3785c1a1e.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-cd43f689edbf5545ee9d37b53870d566aaca94c0.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-c6875d176247d9780f26e295dcbd57486f1a8161.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-d625d5342c77bee4c1430e582b1e7d775c56ceb3.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f5a9d4e45d288a52d3f4a44eab995610ca1f2683.jar" />
+    </item>
+    <item
+        jar="/Users/wilsonreyes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-ff75652dc860b4f78a876597166ae094494c2bd0.jar" />
+    </item>
+
+</items>
