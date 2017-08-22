@@ -281,10 +281,22 @@
     </style>
     <!-- From: file:/Users/wilsonreyes/Downloads/xyzreader/XYZReader/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+        <item name="android:windowExitTransition">
+            @android:transition/slide_right
+        </item>
+
+    </style>
     <style name="Theme.Bacon.Detail">
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowEnterTransition">
+            @android:transition/slide_left
+        </item>
     </style>
     <!-- From: file:/Users/wilsonreyes/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
